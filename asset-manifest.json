@@ -1,13 +1,22 @@
 {
   "main.css": "public/style.css",
   "main.css.map": "public/style.css.map",
-  "main.js": "static/js/main.d650cb84.js",
-  "main.js.map": "static/js/main.d650cb84.js.map",
+  "main.js": "static/js/main.432471e4.js",
+  "main.js.map": "static/js/main.432471e4.js.map",
   "static/media/LeagueGothic-Italic.woff": "static/media/LeagueGothic-Italic.afebc984.woff",
   "static/media/LeagueGothic-Italic.woff2": "static/media/LeagueGothic-Italic.f1436f0b.woff2",
   "static/media/LeagueGothic-Regular.woff": "static/media/LeagueGothic-Regular.64aa3f28.woff",
   "static/media/LeagueGothic-Regular.woff2": "static/media/LeagueGothic-Regular.607bbd8b.woff2",
   "static/media/LeagueGothic-RegularThinner.woff": "static/media/LeagueGothic-RegularThinner.676987d8.woff",
   "static/media/LeagueGothic-RegularThinner.woff2": "static/media/LeagueGothic-RegularThinner.2c39b146.woff2",
-  "static/media/halton-arp-the-modern-galileo-bbal-card.jpg": "static/media/halton-arp-the-modern-galileo-bbal-card.53494d0a.jpg"
+  "static/media/bubble0.png": "static/media/bubble0.f7de98e0.png",
+  "static/media/bubble1.png": "static/media/bubble1.6f61b114.png",
+  "static/media/bubble2.png": "static/media/bubble2.e670fc81.png",
+  "static/media/bubble3.png": "static/media/bubble3.13afa9fa.png",
+  "static/media/bubble4.png": "static/media/bubble4.eb7e082d.png",
+  "static/media/bubble5.png": "static/media/bubble5.20e1636b.png",
+  "static/media/bubble6.png": "static/media/bubble6.3099251d.png",
+  "static/media/bubble7.png": "static/media/bubble7.cdb3266a.png",
+  "static/media/halton-arp-the-modern-galileo-bbal-card.jpg": "static/media/halton-arp-the-modern-galileo-bbal-card.53494d0a.jpg",
+  "static/media/icon.png": "static/media/icon.194b2640.png"
 }
