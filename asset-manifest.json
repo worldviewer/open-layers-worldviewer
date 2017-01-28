@@ -1,8 +1,8 @@
 {
   "main.css": "public/style.css",
   "main.css.map": "public/style.css.map",
-  "main.js": "static/js/main.4f72e392.js",
-  "main.js.map": "static/js/main.4f72e392.js.map",
+  "main.js": "static/js/main.afaa53ff.js",
+  "main.js.map": "static/js/main.afaa53ff.js.map",
   "static/media/LeagueGothic-Italic.woff": "static/media/LeagueGothic-Italic.afebc984.woff",
   "static/media/LeagueGothic-Italic.woff2": "static/media/LeagueGothic-Italic.f1436f0b.woff2",
   "static/media/LeagueGothic-Regular.woff": "static/media/LeagueGothic-Regular.64aa3f28.woff",
@@ -17,6 +17,6 @@
   "static/media/bubble5.png": "static/media/bubble5.462ac252.png",
   "static/media/bubble6.png": "static/media/bubble6.1830a628.png",
   "static/media/bubble7.png": "static/media/bubble7.9397345f.png",
-  "static/media/halton-arp-the-modern-galileo-bbal-card.jpg": "static/media/halton-arp-the-modern-galileo-bbal-card.8e34e4cf.jpg",
+  "static/media/halton-arp-the-modern-galileo-bbal-card.jpg": "static/media/halton-arp-the-modern-galileo-bbal-card.53494d0a.jpg",
   "static/media/icon.png": "static/media/icon.ffe00f78.png"
 }
