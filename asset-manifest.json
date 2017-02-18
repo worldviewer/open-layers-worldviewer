@@ -1,8 +1,8 @@
 {
   "main.css": "public/style.css",
   "main.css.map": "public/style.css.map",
-  "main.js": "static/js/main.7a4e5cd5.js",
-  "main.js.map": "static/js/main.7a4e5cd5.js.map",
+  "main.js": "static/js/main.fc6ad259.js",
+  "main.js.map": "static/js/main.fc6ad259.js.map",
   "static/media/LeagueGothic-Italic.woff": "static/media/LeagueGothic-Italic.afebc984.woff",
   "static/media/LeagueGothic-Italic.woff2": "static/media/LeagueGothic-Italic.f1436f0b.woff2",
   "static/media/LeagueGothic-Regular.woff": "static/media/LeagueGothic-Regular.64aa3f28.woff",
@@ -17,6 +17,7 @@
   "static/media/bubble5.png": "static/media/bubble5.462ac252.png",
   "static/media/bubble6.png": "static/media/bubble6.1830a628.png",
   "static/media/bubble7.png": "static/media/bubble7.9397345f.png",
+  "static/media/explosion-spinner.svg": "static/media/explosion-spinner.96900989.svg",
   "static/media/icon.png": "static/media/icon.ffe00f78.png",
   "static/media/icons_mobiscroll.eot?i26mmk": "static/media/icons_mobiscroll.88755aab.eot",
   "static/media/icons_mobiscroll.svg?i26mmk": "static/media/icons_mobiscroll.4b96ad86.svg",
